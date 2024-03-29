@@ -9,11 +9,6 @@
 
 This project uses Flask to deploy a small web app. It follows the Flask tutorial to setup proper folder structure, a form utilizing a GET and POST, a SQL Lite database with two tables, Bootstrap web templates, and a registration/login system.
 
-### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
-
 ### Executing program
 
 Setup DB
